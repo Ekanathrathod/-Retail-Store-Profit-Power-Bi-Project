@@ -1,4 +1,4 @@
-# -Retail-Store-Profit-Power-Bi-Project
+# Retail-Store-Profit-Power-Bi-Project
 Developed an interactive Power BI dashboard to analyze the performance of various product categories in a retail store.
 
 ✅ Analyzed sales and profit data to identify top and underperforming product categories.
